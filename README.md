@@ -20,7 +20,8 @@ kolejnych m linijkach znajduje się informacja opisujca numery przedmiotów, z k
 poszczególni studenci zdaj egzaminy. i - ta linijka (1<i<m) zawiera co najwyej n liczb
 określajcych numery przedmiotów zdawane przez studenta o numerze i, oddzielone
 pojedyncz spacj.
-Plik wyjściowy: Plik tekstowy o nazwie Sesja_nazwisko_grupa_out.txt ma nastpujcy
+
+Plik wyjściowy: Plik tekstowy o nazwie Sesja_nazwisko_grupa_out.txt ma następujcy
 format: W pierwszej linii pliku znajduje się liczba min - minimalna terminów
 egzaminów, które mog być określone tak, e kady student moe zdać wybrane przez
 siebie egzaminy w niekonfliktowych terminach. W kolejnych min linijkach znajduje
@@ -41,6 +42,7 @@ he can choose information about the subjects asked by the students
 the smallest number of exam dates ensuring no conflicts in
 the session schedule (no student has two different exams scheduled in
 same date).
+
 Input file: A text file named Session_name_group_in.txt. The file has
 the following format: In the first line of the file there are two integers n and m
 separated by a single space (1 <n, m <200). The number n denotes the number of items that
@@ -49,6 +51,7 @@ the next m lines contain information describing the numbers of items from which
 individual students pass the exams. i - this line (1 <i <m) contains at most n numbers
 specifying the subject numbers taken by the student with the number i, separated
 a single space.
+
 Output File: The text file Session_name_group_out.txt has the following
 format: The first line of the file contains the number of min - minimum terms
 exams that may be specified so that each student can pass their choice by
