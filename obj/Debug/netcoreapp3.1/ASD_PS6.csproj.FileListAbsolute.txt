@@ -1,0 +1,13 @@
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\bin\Debug\netcoreapp3.1\ASD_PS6.exe
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\bin\Debug\netcoreapp3.1\ASD_PS6.deps.json
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\bin\Debug\netcoreapp3.1\ASD_PS6.runtimeconfig.json
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\bin\Debug\netcoreapp3.1\ASD_PS6.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\bin\Debug\netcoreapp3.1\ASD_PS6.dll
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\bin\Debug\netcoreapp3.1\ASD_PS6.pdb
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\obj\Debug\netcoreapp3.1\ASD_PS6.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\obj\Debug\netcoreapp3.1\ASD_PS6.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\obj\Debug\netcoreapp3.1\ASD_PS6.AssemblyInfo.cs
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\obj\Debug\netcoreapp3.1\ASD_PS6.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\obj\Debug\netcoreapp3.1\ASD_PS6.dll
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\obj\Debug\netcoreapp3.1\ASD_PS6.pdb
+C:\Users\kamil\source\repos\ASD_PS6\ASD_PS6\obj\Debug\netcoreapp3.1\ASD_PS6.genruntimeconfig.cache
